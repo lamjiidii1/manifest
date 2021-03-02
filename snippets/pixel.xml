@@ -12,7 +12,7 @@
   
   <remote name="pe"
           fetch="https://github.com/lamjiidii1"
-          revision="eleven"
+          revision="eleven" />
 
   <remote name="pixel-gitlab"
           fetch="https://gitlab.com/PixelExperience"
